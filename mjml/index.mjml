@@ -1,0 +1,30 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Yeti Mjml</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+      
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="16px" line-height="120%" color="#626262"/>
+      <mj-image border="none"/>
+      <mj-button background-color="#F45E43" color="#ffffff" font-size="14px"></mj-button>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#eeeeee">      
+    <mj-section background-color="#ffffff" background-url="https://i.ibb.co/R2mTYj0/yeti-bg.png" background-size="cover" background-repeat="no-repeat" full-width="full-width">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-top="45px"><span style="font-size:30px;line-height:30px;">Discover the adventure of inventing</span></mj-text>
+        <mj-text align="center" font-size="14px" color="#45474e" padding-top="25px" padding-bottom="10px">With <span style="color:#00707e">Yeti</span></mj-text>
+        <mj-button align="center" background-color="#00707E" color="#ffffff" border-radius="24px" href="https://yeti.co" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px" text-transform="uppercase">Subscribe</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
