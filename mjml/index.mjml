@@ -12,9 +12,9 @@
       
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="16px" line-height="120%" color="#626262"/>
+      <mj-all font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"/>
       <mj-image border="none"/>
-      <mj-button background-color="#F45E43" color="#ffffff" font-size="14px"></mj-button>
+      <mj-button background-color="#00707e" color="#ffffff" border-radius="24px" font-size="14px" line-height="14px" font-weight="400" text-transform="uppercase"></mj-button>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -23,7 +23,7 @@
       <mj-column>
         <mj-text align="center" color="#45474e" padding-top="40px"><span style="font-size:30px;line-height:30px;">Discover the adventure of inventing</span></mj-text>
         <mj-text align="center" font-size="14px" color="#45474e" padding-top="20px" padding-bottom="10px">With <span style="color:#00707E">Yeti</span></mj-text>
-        <mj-button align="center" background-color="#00707E" color="#ffffff" border-radius="24px" href="https://yeti.co" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px" text-transform="uppercase">Subscribe</mj-button>
+        <mj-button align="center" href="https://yeti.co" padding-bottom="45px" padding-top="10px">Subscribe</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" full-width="full-width">
@@ -65,7 +65,7 @@
           <h2 style="margin:0px;font-weight:700;font-size:16px;color:#45474e">Great newsletter for the most Yeti company out there</h2>
           <p style="margin:0px;padding-top:18px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
         </mj-text>
-        <mj-button align="left" background-color="#00707e" color="#ffffff" border-radius="24px" font-size="14px" href="https://yeti.co" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px" text-transform="uppercase">Read more</mj-button>
+        <mj-button align="left" href="https://yeti.co" padding-bottom="45px" padding-top="10px">Read more</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
